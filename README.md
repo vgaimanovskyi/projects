@@ -1,5 +1,4 @@
-## [vgaimanovskyi.github.io](https://github.com/vgaimanovskyi/vgaimanovskyi.github.io)
-# Vadym Haimanovskyi
+# [Vadym Haimanovskyi](https://github.com/vgaimanovskyi/vgaimanovskyi.github.io)
 ### My FE way:
 + [Design LAB](https://vgaimanovskyi.github.io/15-2-Homework/index.html)
 + [Cahee](https://vgaimanovskyi.github.io/13-1-Homework/index.html)
