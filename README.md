@@ -1,4 +1,4 @@
-# [Vadym Haimanovskyi](https://github.com/vgaimanovskyi/vgaimanovskyi.github.io)
+# [Vadym Haimanovskyi](https://github.com/vgaimanovskyi)
 ### My FE way:
 + [Design LAB](https://vgaimanovskyi.github.io/15-2-Homework/index.html)
 + [Cahee](https://vgaimanovskyi.github.io/13-1-Homework/index.html)
@@ -12,3 +12,4 @@
 ***
 + [Vue practice](https://vgaimanovskyi.github.io/vue-todo/)
 + [Thread Master](https://vgaimanovskyi.github.io/thread-master/) (beta)
++ [web CV](https://vgaimanovskyi.github.io/)
