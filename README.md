@@ -13,3 +13,4 @@
 + [Vue practice](https://vgaimanovskyi.github.io/vue-todo/)
 + [Thread Master](https://vgaimanovskyi.github.io/thread-master/) (beta)
 + [web CV](https://vgaimanovskyi.github.io/)
++ [Weather app](https://my-nuxt-weather-app.herokuapp.com/)
