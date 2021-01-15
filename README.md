@@ -11,5 +11,5 @@
 + [Vue practice](https://vgaimanovskyi.github.io/vue-todo/)
 + [Thread Master](https://vgaimanovskyi.github.io/thread-master/) (beta)
 + [web CV](https://vgaimanovskyi.github.io/)
-+ [GSAP animation](https://vgaimanovskyi.github.io/gsap-practice/)
++ [Rizor](https://vgaimanovskyi.github.io/gsap-practice/) (GSAP animation)
 + [Weather app](https://my-nuxt-weather-app.herokuapp.com/)
