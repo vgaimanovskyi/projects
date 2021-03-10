@@ -7,7 +7,7 @@
 
 ***
 + [Thread Master](https://vgaimanovskyi.github.io/thread-master/) (beta)
-+ [Sociotrack](https://vgaimanovskyi.github.io/vue-tests-sociotrack/)
++ [Vue Sociotrack test](https://vgaimanovskyi.github.io/vue-tests-sociotrack/)
 + [web CV](https://vgaimanovskyi.github.io/)
 + [Rizor](https://vgaimanovskyi.github.io/gsap-practice/) (GSAP animation)
 + [Weather app](https://my-nuxt-weather-app.herokuapp.com/)
