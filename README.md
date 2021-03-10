@@ -1,7 +1,5 @@
 # [Vadym Haimanovskyi](https://github.com/vgaimanovskyi)
 ### My FE way:
-+ [Design LAB](https://vgaimanovskyi.github.io/15-2-Homework/index.html)
-+ [BHROMAON](https://vgaimanovskyi.github.io/21-1-Homework//dist/index.html)
 + [Daisy](https://vgaimanovskyi.github.io/practice-Daisy/index.html)
 + [Monticello](https://vgaimanovskyi.github.io/36-exam/index.html)
 + [CBD](https://vgaimanovskyi.github.io/47-Exam/index.html)
