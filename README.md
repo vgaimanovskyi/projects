@@ -14,3 +14,4 @@
 + [Vue Gelios test](https://vgaimanovskyi.github.io/vue-test-app/)
 + [Vue Codica weather app test](https://vgaimanovskyi.github.io/codica-weather/)
 + [Vue Inchkiev test](https://vgaimanovskyi.github.io/inchkiev-test/)
++ [Vue-schadule](https://vgaimanovskyi.github.io/vue-schadule/)
